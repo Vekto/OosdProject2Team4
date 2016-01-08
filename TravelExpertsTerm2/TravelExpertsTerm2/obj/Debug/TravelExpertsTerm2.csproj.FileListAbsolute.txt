@@ -1,1 +1,2 @@
 c:\users\640844\documents\visual studio 2015\Projects\TravelExpertsTerm2\TravelExpertsTerm2\bin\Debug\TravelExpertsTerm2.exe.config
+C:\Users\606056\Documents\Visual Studio 2015\OosdProject2Team4\TravelExpertsTerm2\TravelExpertsTerm2\bin\Debug\TravelExpertsTerm2.exe.config
