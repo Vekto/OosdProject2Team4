@@ -234,3 +234,7 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+*.suo
+TravelExpertsTerm2/TravelDatabase/ConnectionString.txt
+*.suo
+TravelExpertsTerm2/TravelDatabase/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
